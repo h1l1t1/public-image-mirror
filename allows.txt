@@ -473,6 +473,7 @@ quay.io/spotahome/*
 quay.io/strimzi/*
 quay.io/submariner/*
 quay.io/tigera/*
+docker.io/gotson/komga/*
 registry.gitlab.com/gitlab-org/**
 registry.heroiclabs.com/heroiclabs/nakama
 registry.jujucharms.com/**
